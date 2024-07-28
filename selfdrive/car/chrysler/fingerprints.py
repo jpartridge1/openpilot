@@ -619,6 +619,10 @@ FW_VERSIONS = {
       b'68551676AA',
       b'68629935AB',
       b'68629936AC',
+      b'68551671AA',
+    ],
+    (Ecu.hybrid, 0x7e2, None): [
+      b'68484620AB',
     ],
   },
   CAR.RAM_HD_5TH_GEN: {
